@@ -1,8 +1,10 @@
-# React Crypto - Cryptocurrency Price Tracker
+# React Crypto - Cryptocurrency Price Tracker 
 
 ## About the Project
 
 React Crypto is a modern web application that allows users to track and monitor cryptocurrency prices in real-time. The application provides a user-friendly interface to search for cryptocurrencies and view their current market prices converted to USD.
+
+Visit deployment here : https://cryptocurrency-exchange-tool.vercel.app/
 
 ## What the Application Does
 
